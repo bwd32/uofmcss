@@ -1,0 +1,45 @@
+header{
+    background-color: rgb(211,211,211);
+}
+
+nav{
+	background-color: rgb(174,216,230);
+}
+
+ul{
+   padding-right: 40px;
+}
+
+li{
+   display: inline-block;
+   text-align: center;
+   width: 33%;
+}
+
+body{
+	 font-family: "segoe ui", arial, helvetica; font-size: 100%;
+
+}
+
+h1{
+   font-family: "segoe ui light", arial, helvetica; font-size: 400%;
+   color: rgb(0, 0, 255);
+   text-align: center;
+}
+
+main{
+	 font-size: 120%;
+     background-color: rgb(254,255,0);
+}
+
+p{
+  line-height: 110%;
+}
+
+footer{
+	   font-family: "segoe ul", arial, helvetica; font-size: 100%;
+	   font-style: italic;
+       text-align: center;
+	   background-color: rgb(211,211,211);
+
+}
